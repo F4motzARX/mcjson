@@ -1519,11 +1519,11 @@
             }
         },
         {
-            "name": "net.minecraftforge:fmlloader:1.19.2-43.1.1",
+            "name": "net.minecraftforge:fmlloader:1.19.2-43.3.13",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/fmlloader/1.19.2-43.1.1/fmlloader-1.19.2-43.1.1.jar",
-                    "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.19.2-43.1.1/fmlloader-1.19.2-43.1.1.jar",
+                    "path": "net/minecraftforge/fmlloader/1.19.2-43.3.13/fmlloader-1.19.2-43.3.13.jar",
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.19.2-43.3.13/fmlloader-1.19.2-43.3.13.jar",
                     "sha1": "5f97967f7b85bfeb9ba77b9a9d6fe6dd9be05c84",
                     "size": 260532
                 }
@@ -1552,11 +1552,11 @@
             }
         },
 		{
-            "name": "net.minecraftforge:forge:1.19.2-43.1.1:client",
+            "name": "net.minecraftforge:forge:1.19.2-43.3.13:client",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/forge/1.19.2-43.1.1/forge-1.19.2-43.1.1-client.jar",
-                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/forge/1.19.2-43.1.1/forge-1.19.2-43.1.1-client.jar",
+                    "path": "net/minecraftforge/forge/1.19.2-43.3.13/forge-1.19.2-43.3.13-client.jar",
+                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/forge/1.19.2-43.3.13/forge-1.19.2-43.3.13-client.jar",
                     "sha1": "be6462bf1f79dff1b1f010e2f8c2cdcbc7a63c8f",
                     "size": 238964
                 }
