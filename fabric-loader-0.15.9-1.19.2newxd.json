@@ -90,7 +90,7 @@
             "url": "https://piston-data.mojang.com/v1/objects/ed5e6e8334ad67f5af0150beed0f3d156d74bd57/server.txt"
         }
     },
-    "id": "fabric-loader-0.15.9-1.19.2",
+    "id": "fabric-loader-0.15.11-1.21",
     "javaVersion": {
         "component": "java-runtime-gamma",
         "majorVersion": 17
@@ -1279,20 +1279,20 @@
                     "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar"
                 }
         }, {
-            "name": "net.fabricmc:intermediary:1.19.2",
+            "name": "net.fabricmc:intermediary:1.21",
             "artifact": {
-                    "path": "net/fabricmc/intermediary/1.19.2/intermediary-1.19.2.jar",
+                    "path": "net/fabricmc/intermediary/1.21/intermediary-1.21.jar",
                     "sha1": "9264b892918b70d28a1cf8bc4c07fdc6a1463628",
                     "size": 0,
-                    "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.19.2/intermediary-1.19.2.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.21/intermediary-1.21.jar"
                 }
         }, {
-            "name": "net.fabricmc:fabric-loader:0.15.9",
+            "name": "net.fabricmc:fabric-loader:0.15.11",
             "artifact": {
-                    "path": "net/fabricmc/fabric-loader/0.15.9/fabric-loader-0.15.9.jar",
+                    "path": "net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar",
                     "sha1": "8582c6e659a90e4306d6012234c02a825141c9ef",
                     "size": 0,
-                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.9/fabric-loader-0.15.9.jar"
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
                 }
         }
     ],
