@@ -82,7 +82,7 @@
         "server": {
             "sha1": "145ff0858209bcfc164859ba735d4199aafa1eea",
             "size": 51420480,
-            "url": "https://piston-data.mojang.com/v1/objects/145ff0858209bcfc164859ba735d4199aafa1eea/server.jar""
+            "url": "https://piston-data.mojang.com/v1/objects/145ff0858209bcfc164859ba735d4199aafa1eea/server.jar"
         },
         "server_mappings": {
             "sha1": "9e96100f573a46ef44caab3e716d5eb974594bb7",
