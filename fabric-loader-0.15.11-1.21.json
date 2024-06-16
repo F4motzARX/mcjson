@@ -66,7 +66,7 @@
         "totalSize": 799252591,
         "url": "https://piston-meta.mojang.com/v1/packages/fab15439bdef669e389e25e815eee8f1b2aa915e/17.json"
     },
-    "assets": "17",
+    "assets": "1.21",
     "complianceLevel": 1,
     "downloads": {
         "client": {
