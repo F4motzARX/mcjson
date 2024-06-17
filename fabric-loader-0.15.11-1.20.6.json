@@ -93,7 +93,7 @@
         "name": "net.fabricmc:fabric-loader:0.15.11",
         "artifact": {
             "path": "net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar",
-            "sha1": "5bb1e3eb1e7a51284530dd0a1b86286a31b2ceeb",
+            "sha1": "9c2be53d84ec5c4fb58bb5b8d9c8a629047c9ee9",
             "size": 0,
             "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
         }
