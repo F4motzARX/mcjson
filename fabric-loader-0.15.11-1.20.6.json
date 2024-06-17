@@ -60,13 +60,13 @@
             }, "-Djava.library.path=${natives_directory}", "-Dminecraft.launcher.brand=${launcher_name}", "-Dminecraft.launcher.version=${launcher_version}", "-DFabricMcEmu=net.minecraft.client.main.Main", "-cp", "${classpath}"]
     },
     "assetIndex": {
-        "id": "1.20",
-        "sha1": "376f460c35740f490082af166f4464d5a8eeaf04",
-        "size": 447033,
-        "totalSize": 799252591,
-        "url": "https://piston-meta.mojang.com/v1/packages/376f460c35740f490082af166f4464d5a8eeaf04/1.20.6.json"
+        "id": "16",
+        "sha1": "ed1ae9fdfb2645fbfeef00a3605d11c30a1f0fd2",
+        "size": 445177,
+        "totalSize": 630829417,
+        "url": "https://piston-meta.mojang.com/v1/packages/ed1ae9fdfb2645fbfeef00a3605d11c30a1f0fd2/16.json"
     },
-    "assets": "1.20",
+    "assets": "16",
     "complianceLevel": 1,
     "downloads": {
         "client": {
