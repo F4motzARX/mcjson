@@ -81,21 +81,21 @@
         }
     },
     {
-        "name": "net.fabricmc:intermediary:1.19.2",
+        "name": "net.fabricmc:intermediary:1.20.6",
         "artifact": {
-            "path": "net/fabricmc/intermediary/1.19.2/intermediary-1.19.2.jar",
-            "sha1": "9264b892918b70d28a1cf8bc4c07fdc6a1463628",
+            "path": "net/fabricmc/intermediary/1.20.6/intermediary-1.20.6.jar",
+            "sha1": "9ee6e3f328f92579adea818a9078cf68d7af6983",
             "size": 0,
-            "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.19.2/intermediary-1.19.2.jar"
+            "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.20.6/intermediary-1.20.6.jar"
         }
     },
     {
-        "name": "net.fabricmc:fabric-loader:0.14.9",
+        "name": "net.fabricmc:fabric-loader:0.15.11",
         "artifact": {
-            "path": "net/fabricmc/fabric-loader/0.14.9/fabric-loader-0.14.9.jar",
-            "sha1": "8582c6e659a90e4306d6012234c02a825141c9ef",
+            "path": "net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar",
+            "sha1": "5bb1e3eb1e7a51284530dd0a1b86286a31b2ceeb",
             "size": 0,
-            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.14.9/fabric-loader-0.14.9.jar"
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
         }
     }
 ,
