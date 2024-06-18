@@ -1666,7 +1666,7 @@
       "name": "org.slf4j:slf4j-api:2.0.9"
     }
     ],
-}{
+},{
         "name": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
         "artifact": {
             "path": "net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar",
