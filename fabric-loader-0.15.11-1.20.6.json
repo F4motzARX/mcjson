@@ -184,7 +184,7 @@
       "url": "https://piston-data.mojang.com/v1/objects/9e96100f573a46ef44caab3e716d5eb974594bb7/server.txt"
     }
   },
-  "id": "fabric-loader-0.15.11-1.20.6",
+  "id": "fabric-loader-0.15.10-1.20.6",
   "javaVersion": {
     "component": "java-runtime-delta",
     "majorVersion": 21
@@ -1756,12 +1756,12 @@
         }
     },
     {
-        "name": "net.fabricmc:fabric-loader:0.15.11",
+        "name": "net.fabricmc:fabric-loader:0.15.10",
         "artifact": {
-            "path": "net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar",
-            "sha1": "9c2be53d84ec5c4fb58bb5b8d9c8a629047c9ee9",
+            "path": "net/fabricmc/fabric-loader/0.15.10/fabric-loader-0.15.10.jar",
+            "sha1": "3538922fb4094a9d600d528e7acccac662b8a3c2",
             "size": 0,
-            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.10/fabric-loader-0.15.10.jar"
         }
     }
 ],
