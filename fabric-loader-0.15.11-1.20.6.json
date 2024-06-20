@@ -186,8 +186,8 @@
   },
   "id": "fabric-loader-0.15.11-1.20.6",
   "javaVersion": {
-    "component": "java-runtime-gamma",
-    "majorVersion": 17
+    "component": "java-runtime-delta",
+    "majorVersion": 21
   },
   "libraries": [
     {
