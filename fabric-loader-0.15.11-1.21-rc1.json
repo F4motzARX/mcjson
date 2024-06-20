@@ -184,7 +184,7 @@
       "url": "https://piston-data.mojang.com/v1/objects/31c77994d96f05ba25a870ada70f47f315330437/server.txt"
     }
   },
-  "id": "fabric-loader-0.15.11-1.21",
+  "id": "fabric-loader-0.15.11-1.21-rc1",
   "javaVersion": {
     "component": "java-runtime-delta",
     "majorVersion": 21
@@ -1747,12 +1747,12 @@
         }
     },
     {
-        "name": "net.fabricmc:intermediary:1.21",
+        "name": "net.fabricmc:intermediary:1.21-rc1",
         "artifact": {
-            "path": "net/fabricmc/intermediary/1.21/intermediary-1.21.jar",
-            "sha1": "f7550746ffb105da21450c846413f14df3e8f214",
+            "path": "net/fabricmc/intermediary/1.21-rc1/intermediary-1.21-rc1.jar",
+            "sha1": "144190d33b5674fe95c25db86da1e7418408bed0",
             "size": 0,
-            "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.21/intermediary-1.21.jar"
+            "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.21-rc1/intermediary-1.21-rc1.jar"
         }
     },
     {
