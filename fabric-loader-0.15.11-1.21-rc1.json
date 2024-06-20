@@ -300,13 +300,13 @@
     {
       "downloads": {
         "artifact": {
-          "path": "com/mojang/datafixerupper/7.0.14/datafixerupper-7.0.14.jar",
-          "sha1": "db3485dc1e6b712bd81170d5ce6dca2fb2f8bd86",
-          "size": 722976,
-          "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/7.0.14/datafixerupper-7.0.14.jar"
+          "path": "com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar",
+          "sha1": "67d4de6d7f95d89bcf5862995fb854ebaec02a34",
+          "size": 724313,
+          "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar"
         }
       },
-      "name": "com.mojang:datafixerupper:7.0.14"
+      "name": "com.mojang:datafixerupper:8.0.16"
     },
     {
       "downloads": {
@@ -676,13 +676,13 @@
     {
       "downloads": {
         "artifact": {
-          "path": "org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos.jar",
-          "sha1": "1e9b635b5c16b515527b905749be59223e338c4d",
-          "size": 1142682,
-          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos.jar"
+          "path": "org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-arm64.jar",
+          "sha1": "b0a8c9baa9d1f54ac61e1ab9640c7659e7fa700c",
+          "size": 1040981,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-arm64.jar"
         }
       },
-      "name": "org.lwjgl:lwjgl-freetype:3.3.3:natives-macos",
+      "name": "org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-arm64",
       "rules": [
         {
           "action": "allow",
@@ -695,13 +695,13 @@
     {
       "downloads": {
         "artifact": {
-          "path": "org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-arm64.jar",
-          "sha1": "b0a8c9baa9d1f54ac61e1ab9640c7659e7fa700c",
-          "size": 1040981,
-          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-arm64.jar"
+          "path": "org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-patch.jar",
+          "sha1": "806d869f37ce0df388a24e17aaaf5ca0894d851b",
+          "size": 1071983,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-patch.jar"
         }
       },
-      "name": "org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-arm64",
+      "name": "org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-patch",
       "rules": [
         {
           "action": "allow",
