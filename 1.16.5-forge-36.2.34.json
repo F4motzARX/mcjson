@@ -1389,7 +1389,7 @@
             "downloads": {
                 "artifact": {
                     "path": "net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar",
-                    "url": "https://alternative-api.fr/libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar",
+                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar",
                     "sha1": "b05f056824252928b59c746f8a28fe2cf36db6c0",
                     "size": 212608
                 }
@@ -1400,7 +1400,7 @@
             "downloads": {
                 "artifact": {
                     "path": "net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar",
-					"url": "https://alternative-api.fr/libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar",
+					"url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar",
                     "sha1": "24aa8afad1764e4ff18eea3071cbb54461943523",
                     "size": 159947
                 }
@@ -1411,7 +1411,7 @@
             "downloads": {
                 "artifact": {
                     "path": "net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar",
-					"url": "https://alternative-api.fr/libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar",
+					"url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar",
                     "sha1": "f0b1ece7b16290e61d1cd76b67b94ae499ecdd9a",
                     "size": 159947
                 }
@@ -1422,7 +1422,7 @@
             "downloads": {
                 "artifact": {
                     "path": "net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar",
-					"url": "https://alternative-api.fr/libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar",
+					"url": "http://127.0.0.1/alternative_versions/libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar",
                     "sha1": "342951ce10a0c4fda107e185561e7c7791ef7e11",
                     "size": 159947
                 }
@@ -1433,7 +1433,7 @@
             "downloads": {
                 "artifact": {
                     "path": "net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar",
-					"url": "https://alternative-api.fr/libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar",
+					"url": "http://127.0.0.1/alternative_versions/libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar",
                     "sha1": "4aef4168f94d97bc73bf510213b2518942f931d1",
                     "size": 159947
                 }
