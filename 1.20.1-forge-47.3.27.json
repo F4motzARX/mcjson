@@ -131,14 +131,22 @@
         ],
         "value": "-Xss1M"
       },
-      "-Djava.library.path=${natives_directory}",
-      "-Djna.tmpdir=${natives_directory}",
-      "-Dorg.lwjgl.system.SharedLibraryExtractPath=${natives_directory}",
-      "-Dio.netty.native.workdir=${natives_directory}",
-      "-Dminecraft.launcher.brand=${launcher_name}",
-      "-Dminecraft.launcher.version=${launcher_version}",
-      "-cp",
-      "${classpath}"
+  "-Djava.library.path=${natives_directory}", "-Dminecraft.launcher.brand=${launcher_name}", "-Dminecraft.launcher.version=${launcher_version}", "-cp", "${classpath}", "-Djava.net.preferIPv6Addresses=system",
+            "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar",
+            "-DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar",
+            "-DlibraryDirectory=${library_directory}",
+            "-p",
+            "${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.3/asm-9.3.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar",
+            "--add-modules",
+            "ALL-MODULE-PATH",
+            "--add-opens",
+            "java.base/java.util.jar=cpw.mods.securejarhandler",
+            "--add-opens",
+            "java.base/java.lang.invoke=cpw.mods.securejarhandler",
+            "--add-exports",
+            "java.base/sun.security.util=cpw.mods.securejarhandler",
+            "--add-exports",
+            "jdk.naming.dns/com.sun.jndi.dns=java.naming"
     ]
   },
   "assetIndex": {
