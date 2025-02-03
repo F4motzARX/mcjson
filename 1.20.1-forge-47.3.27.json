@@ -1817,9 +1817,9 @@
             "type": "log4j2-xml"
         }
     },
-    "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
-    "minimumLauncherVersion": 21,
-    "releaseTime": "2022-08-05T11:57:05+00:00",
-    "time": "2022-08-05T11:57:05+00:00",
-    "type": "release"
+   "mainClass": "net.minecraft.client.main.Main",
+  "minimumLauncherVersion": 21,
+  "releaseTime": "2023-06-12T13:25:51+00:00",
+  "time": "2023-06-12T13:25:51+00:00",
+  "type": "release"
 }
