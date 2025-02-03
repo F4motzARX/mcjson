@@ -1717,88 +1717,88 @@
             }
         },
 		{
-            "name": "net.minecraft:client:1.19.2-20220805.130853:srg",
+            "name": "net.minecraft:client:1.20.1-20230612.114412:srg",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar",
-                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar",
+                    "path": "net/minecraft/client/1.20.1-20230612.1144123/client-1.20.1-20230612.114412-srg.jar",
+                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar",
                     "sha1": "24d05fdd07a59ff816c1b85bf756d13ccc771be9",
                     "size": 238964
                 }
             }
         },
 		{
-            "name": "net.minecraft:client:1.19.2-20220805.130853:extra",
+            "name": "net.minecraft:client:1.20.1-20230612.114412:extra",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar",
-                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar",
+                    "path": "net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.1144123-extra.jar",
+                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar",
                     "sha1": "b78d6d3c3160407bd7a6da30b345dd2b8b29da34",
                     "size": 238964
                 }
             }
         },
 		{
-            "name": "net.minecraftforge:forge:1.19.2-43.3.13:client",
+            "name": "net.minecraftforge:forge:1.20.1-47.3.27:client",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/forge/1.19.2-43.3.13/forge-1.19.2-43.3.13-client.jar",
-                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/forge/1.19.2-43.3.13/forge-1.19.2-43.3.13-client.jar",
+                    "path": "net/minecraftforge/forge/1.20.1-47.3.27/forge-1.20.1-47.3.27-client.jar",
+                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/forge/1.20.1-47.3.27/forge-1.20.1-47.3.27-client.jar",
                     "sha1": "be6462bf1f79dff1b1f010e2f8c2cdcbc7a63c8f",
                     "size": 238964
                 }
             }
         },
 		{
-            "name": "net.minecraftforge:fmlcore:1.19.2-43.3.13",
+            "name": "net.minecraftforge:fmlcore:1.20.1-47.3.27",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/fmlcore/1.19.2-43.3.13/fmlcore-1.19.2-43.3.13.jar",
-                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/fmlcore/1.19.2-43.3.13/fmlcore-1.19.2-43.3.13.jar",
+                    "path": "net/minecraftforge/fmlcore/1.20.1-47.3.27/fmlcore-1.20.1-47.3.27.jar",
+                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.27/fmlcore-1.20.1-47.3.27.jar",
                     "sha1": "a360bf0bfd441873ebefd53437a791e9ab46f6ef",
                     "size": 238964
                 }
             }
         },
 		{
-            "name": "net.minecraftforge:javafmllanguage:1.19.2-43.3.13",
+            "name": "net.minecraftforge:javafmllanguage:1.20.1-47.3.27",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/javafmllanguage/1.19.2-43.3.13/javafmllanguage-1.19.2-43.3.13.jar",
-                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.3.13/javafmllanguage-1.19.2-43.3.13.jar",
+                    "path": "net/minecraftforge/javafmllanguage/1.20.1-47.3.27/javafmllanguage-1.20.1-47.3.27.jar",
+                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.27/javafmllanguage-1.20.1-47.3.27.jar",
                     "sha1": "ba10b072f07a2af1eb474d0134c93f221c341d09",
                     "size": 238964
                 }
             }
         },
 		{
-            "name": "net.minecraftforge:lowcodelanguage:1.19.2-43.3.13",
+            "name": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.27",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/lowcodelanguage/1.19.2-43.3.13/lowcodelanguage-1.19.2-43.3.13.jar",
-                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.3.13/lowcodelanguage-1.19.2-43.3.13.jar",
+                    "path": "net/minecraftforge/lowcodelanguage/1.20.1-47.3.27/lowcodelanguage-1.20.1-47.3.27.jar",
+                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.27/lowcodelanguage-1.20.1-47.3.27.jar",
                     "sha1": "ac8b0c9b0b1f4b8bb9ff2f9f96a44b130f4ca173",
                     "size": 238964
                 }
             }
         },
 		{
-            "name": "net.minecraftforge:mclanguage:1.19.2-43.3.13",
+            "name": "net.minecraftforge:mclanguage:1.20.1-47.3.27",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/mclanguage/1.19.2-43.3.13/mclanguage-1.19.2-43.3.13.jar",
-                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/mclanguage/1.19.2-43.3.13/mclanguage-1.19.2-43.3.13.jar",
+                    "path": "net/minecraftforge/mclanguage/1.20.1-47.3.27/mclanguage-1.20.1-47.3.27.jar",
+                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.27/mclanguage-1.20.1-47.3.27.jar",
                     "sha1": "335b1d438c903932c77a05eb82d5891a6b16f0c8",
                     "size": 238964
                 }
             }
         },
 		{
-            "name": "net.minecraftforge:forge:1.19.2-43.3.13:universal",
+            "name": "net.minecraftforge:forge:1.20.1-47.3.27:universal",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/forge/1.19.2-43.3.13/forge-1.19.2-43.3.13-universal.jar",
-                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/forge/1.19.2-43.3.13/forge-1.19.2-43.3.13-universal.jar",
+                    "path": "net/minecraftforge/forge/1.20.1-47.3.27/forge-1.20.1-47.3.27-universal.jar",
+                    "url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/forge/1.20.1-47.3.27/forge-1.20.1-47.3.27-universal.jar",
                     "sha1": "3fde03a76359b1228244ea22bf8eb4bdb8d7de48",
                     "size": 238964
                 }
