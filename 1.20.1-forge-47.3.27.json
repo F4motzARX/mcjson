@@ -1549,11 +1549,11 @@
             }
         },
         {
-            "name": "cpw.mods:modlauncher:10.0.9",
+            "name": "cpw.mods:modlauncher:10.0.8",
             "downloads": {
                 "artifact": {
-                    "path": "cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar",
-                    "url": "https://maven.minecraftforge.net/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar",
+                    "path": "cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar",
+                    "url": "https://maven.minecraftforge.net/cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar",
                     "sha1": "658c4ddb704aeeaa94ff3e668785a5eebddd0cb5",
                     "size": 130263
                 }
