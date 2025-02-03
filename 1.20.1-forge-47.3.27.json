@@ -1424,7 +1424,7 @@
             "downloads": {
                 "artifact": {
                     "path": "cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar",
-                    "url": "https://maven.minecraftforge.net/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.10.jar",
+                    "url": "https://maven.minecraftforge.net/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar",
                     "sha1": "f47e3b9dd860a7b82154b8f90a650ffd0aaa5582",
                     "size": 87315
                 }
@@ -1468,7 +1468,7 @@
             "downloads": {
                 "artifact": {
                     "path": "org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar",
-                    "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-util/9.3/asm-util-9.7.1.jar",
+                    "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar",
                     "sha1": "9595bc05510d0bd4b610188b77333fe4851a1975",
                     "size": 85682
                 }
