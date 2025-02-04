@@ -1825,7 +1825,7 @@
             "type": "log4j2-xml"
         }
     },
-   "mainClass": "cpw.mods.modlauncher.Launcher",
+   "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
   "minimumLauncherVersion": 21,
   "releaseTime": "2023-06-12T13:25:51+00:00",
   "time": "2023-06-12T13:25:51+00:00",
