@@ -615,6 +615,17 @@
           "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.jar"
         }
       },
+	     "name": "net.java.dev.jna:jna-platform:5.10.0"
+        }, 
+	  {
+            "downloads": {
+                "artifact": {
+                    "path": "org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar",
+                    "sha1": "83b0359d847ee053d745be7ec0d8e9e8a44304b4",
+                    "size": 44213,
+                    "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar"
+                }
+            },
       "name": "org.apache.logging.log4j:log4j-slf4j2-impl:2.19.0"
     },
     {
