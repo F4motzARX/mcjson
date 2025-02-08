@@ -68,7 +68,7 @@
                     }
                 ],
                 "value": "-Xss1M"
-            },  "-Djava.net.preferIPv6Addresses=system",
+            },  "-Djava.library.path=${natives_directory}", "-Dminecraft.launcher.brand=${launcher_name}", "-Dminecraft.launcher.version=${launcher_version}", "-cp", "${classpath}", "-Djava.net.preferIPv6Addresses=system",
             "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar",
             "-DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar",
             "-DlibraryDirectory=${library_directory}",
