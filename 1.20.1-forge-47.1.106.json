@@ -95,62 +95,69 @@
         ]
       }
     ],
-    "jvm": [
-      {
-        "rules": [
-          {
+"jvm": [
+    {
+        "rules": [{
             "action": "allow",
             "os": {
-              "name": "osx"
+                "name": "osx"
             }
-          }
-        ],
-        "value": [
-          "-XstartOnFirstThread"
-        ]
-      },
-      {
-        "rules": [
-          {
+        }],
+        "value": ["-XstartOnFirstThread"]
+    },
+    {
+        "rules": [{
             "action": "allow",
             "os": {
-              "name": "windows"
+                "name": "windows"
             }
-          }
-        ],
+        }],
         "value": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump"
-      },
-      {
-        "rules": [
-          {
+    },
+    {
+        "rules": [{
             "action": "allow",
             "os": {
-              "arch": "x86"
+                "name": "windows",
+                "version": "^10\\."
             }
-          }
-        ],
+        }],
+        "value": ["-Dos.name=Windows 10", "-Dos.version=10.0"]
+    },
+    {
+        "rules": [{
+            "action": "allow",
+            "os": {
+                "arch": "x86"
+            }
+        }],
         "value": "-Xss1M"
-      },
-
-            "-Djava.net.preferIPv6Addresses=system",
-            "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,events-47.2.2.jar,core-47.2.2.jar,language-java,language-lowcode,language-minecraft,client-extra,forge-,${version_name}.jar",
-            "-DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar",
-            "-Dfml.pluginLayerLibraries=core-47.2.2.jar,language-java-47.2.2.jar,language-lowcode-47.2.2.jar,language-minecraft-47.2.2.jar",
-            "-Dfml.gameLayerLibraries=events-47.2.2.jar",
-            "-DlibraryDirectory=${library_directory}",
-            "-p",
-            "${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.5/asm-9.5.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar",
-            "--add-modules",
-            "ALL-MODULE-PATH",
-            "--add-opens",
-            "java.base/java.util.jar=cpw.mods.securejarhandler",
-            "--add-opens",
-            "java.base/java.lang.invoke=cpw.mods.securejarhandler",
-            "--add-exports",
-            "java.base/sun.security.util=cpw.mods.securejarhandler",
-            "--add-exports",
-            "jdk.naming.dns/com.sun.jndi.dns=java.naming"
-	]
+    },
+    "-Djava.net.preferIPv6Addresses=system",
+    "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,events-47.2.2.jar,core-47.2.2.jar,language-java,language-lowcode,language-minecraft,client-extra,forge-,${version_name}.jar",
+    "-DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar",
+    "-Dfml.pluginLayerLibraries=core-47.2.2.jar,language-java-47.2.2.jar,language-lowcode-47.2.2.jar,language-minecraft-47.2.2.jar",
+    "-Dfml.gameLayerLibraries=events-47.2.2.jar",
+    "-DlibraryDirectory=${library_directory}",
+    "-Djava.library.path=${natives_directory}",
+    "-Djna.tmpdir=${natives_directory}",
+    "-Dorg.lwjgl.system.SharedLibraryExtractPath=${natives_directory}",
+    "-Dio.netty.native.workdir=${natives_directory}",
+    "-Dminecraft.launcher.brand=${launcher_name}",
+    "-Dminecraft.launcher.version=${launcher_version}",
+    "-cp",
+    "${classpath}",
+    "--add-modules",
+    "ALL-MODULE-PATH",
+    "--add-opens",
+    "java.base/java.util.jar=cpw.mods.securejarhandler",
+    "--add-opens",
+    "java.base/java.lang.invoke=cpw.mods.securejarhandler",
+    "--add-exports",
+    "java.base/sun.security.util=cpw.mods.securejarhandler",
+    "--add-exports",
+    "jdk.naming.dns/com.sun.jndi.dns=java.naming"
+]
     },
     "assetIndex": {
       "id": "5",
