@@ -20,7 +20,7 @@
             "url": "https://launcher.mojang.com/v1/objects/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar"
         }
     },
-    "id": "1.12.2-forge-14.23.5.2859",
+    "id": "1.12.2-forge-14.23.5.2860",
     "javaVersion": {
         "component": "jre-legacy",
         "majorVersion": 8
@@ -604,11 +604,11 @@
             ]
         },
 		{
-            "name": "net.minecraftforge:forge:1.12.2-14.23.5.2859",
+            "name": "net.minecraftforge:forge:1.12.2-14.23.5.2860",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859.jar",
-					"url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859.jar",
+                    "path": "net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860.jar",
+					"url": "http://127.0.0.1/alternative_versions/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2860//forge-1.12.2-14.23.5.2860.jar",
                     "sha1": "bfc07a510e23e5181b6a32fdcea9c9d9a1445a46",
                     "size": 4466108
                 }
@@ -876,4 +876,3 @@
     "time": "2017-09-18T08:39:46+00:00",
     "type": "release"
 }
-
