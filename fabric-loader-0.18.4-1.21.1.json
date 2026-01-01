@@ -1727,7 +1727,7 @@
             "name": "net.fabricmc:fabric-loader:0.18.4",
             "url": "https://maven.fabricmc.net/"
         }
-    }
+    
 ],
     "logging": {
         "client": {
